@@ -1,0 +1,60 @@
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.362540192926045" />
+        <entry key="..\:/Users/cheng/Desktop/JPractice/app/src/main/res/layout/fragment_home.xml" value="0.74" />
+        <entry key="..\:/Users/cheng/Desktop/JPractice/app/src/main/res/layout/fragment_vocabulary.xml" value="0.1" />
+        <entry key="..\:/Users/cheng/Desktop/JPractice/app/src/main/res/menu/alltone_bottom_menu.xml" value="0.49125" />
+        <entry key="..\:/Users/cheng/Desktop/JPractice/app/src/main/res/menu/alltone_menu.xml" value="0.49125" />
+        <entry key="app/src/main/res/layout-hdpi/fragment_examsetting.xml" value="0.69125" />
+        <entry key="app/src/main/res/layout-hdpi/fragment_practice.xml" value="0.49503968253968256" />
+        <entry key="app/src/main/res/layout-ldpi/fragment_examsetting.xml" value="1.4015151515151516" />
+        <entry key="app/src/main/res/layout-ldpi/fragment_practice.xml" value="0.9053030303030303" />
+        <entry key="app/src/main/res/layout-mdpi/fragment_examsetting.xml" value="1.0755813953488371" />
+        <entry key="app/src/main/res/layout-mdpi/fragment_practice.xml" value="0.6947674418604651" />
+        <entry key="app/src/main/res/layout-xhdpi/fragment_practice.xml" value="0.31171875" />
+        <entry key="app/src/main/res/layout-xxhdpi/fragment_practice.xml" value="0.18472222222222223" />
+        <entry key="app/src/main/res/layout-xxxhdpi/fragment_practice.xml" value="0.155859375" />
+        <entry key="app/src/main/res/layout-xxxhdpi/vocabulary_item.xml" value="0.8581349206349206" />
+        <entry key="app/src/main/res/layout/activity_all_tone.xml" value="0.64" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.48625" />
+        <entry key="app/src/main/res/layout/alert_customview.xml" value="0.7390873015873016" />
+        <entry key="app/src/main/res/layout/alltone_customview.xml" value="0.815" />
+        <entry key="app/src/main/res/layout/custom_alert.xml" value="0.31125" />
+        <entry key="app/src/main/res/layout/fragment_examsetting.xml" value="0.69125" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_practice.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_vocabulary.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/fragment_vocabularyexam.xml" value="0.4662698412698413" />
+        <entry key="app/src/main/res/layout/fragment_vocabularyexamsetting.xml" value="0.4662698412698413" />
+        <entry key="app/src/main/res/layout/main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/practice_alertview.xml" value="0.42125" />
+        <entry key="app/src/main/res/layout/vocabulary_item.xml" value="0.49544072948328266" />
+        <entry key="app/src/main/res/layout/vocabulary_item_back.xml" value="1.0828488372093024" />
+        <entry key="app/src/main/res/layout/vocabulary_item_front.xml" value="0.9166666666666666" />
+        <entry key="app/src/main/res/layout/vocabularyexam_alert.xml" value="0.36375" />
+        <entry key="app/src/main/res/layout/vocabularyexam_item.xml" value="0.31875" />
+        <entry key="app/src/main/res/menu/alltone_bottom_menu.xml" value="0.485" />
+        <entry key="app/src/main/res/menu/alltone_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.485" />
+        <entry key="app/src/main/res/menu/exam_menu.xml" value="0.7734939759036145" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.485" />
+        <entry key="app/src/main/res/menu/practice_menu.xml" value="0.5025" />
+        <entry key="app/src/main/res/menu/vocabulary_menu.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/vocabularyexam_menu.xml" value="0.36375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

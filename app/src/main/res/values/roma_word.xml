@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clearVoiceOfRoma">
+        <item>a</item>
+        <item>i</item>
+        <item>u</item>
+        <item>e</item>
+        <item>o</item>
+        <item>ka</item>
+        <item>ki</item>
+        <item>ku</item>
+        <item>ke</item>
+        <item>ko</item>
+        <item>sa</item>
+        <item>shi</item>
+        <item>su</item>
+        <item>se</item>
+        <item>so</item>
+        <item>ta</item>
+        <item>chi</item>
+        <item>tsu</item>
+        <item>te</item>
+        <item>to</item>
+        <item>na</item>
+        <item>ni</item>
+        <item>nu</item>
+        <item>ne</item>
+        <item>no</item>
+        <item>ha</item>
+        <item>hi</item>
+        <item>fu</item>
+        <item>he</item>
+        <item>ho</item>
+        <item>ma</item>
+        <item>mi</item>
+        <item>mu</item>
+        <item>me</item>
+        <item>mo</item>
+        <item>ya</item>
+        <item>  </item>
+        <item>yu</item>
+        <item>  </item>
+        <item>yo</item>
+        <item>ra</item>
+        <item>ri</item>
+        <item>ru</item>
+        <item>re</item>
+        <item>ro</item>　
+        <item>wa</item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>wo</item>
+        <item>n</item>
+
+
+
+
+
+    </string-array>
+
+
+    <string-array name="footyVoiceOfRoma">
+
+    <item>ga</item>
+    <item>gi</item>
+    <item>gu</item>
+    <item>ge</item>
+    <item>go</item>
+    <item>za</item>
+    <item>zi</item>
+    <item>zu</item>
+    <item>ze</item>
+    <item>zo</item>
+    <item>da</item>
+    <item>di</item>
+    <item>du</item>
+    <item>de</item>
+    <item>do</item>
+    <item>ba</item>
+    <item>bi</item>
+    <item>bu</item>
+    <item>be</item>
+    <item>bo</item>
+    <item>pa</item>
+    <item>pi</item>
+    <item>pu</item>
+    <item>pe</item>
+    <item>po</item>
+</string-array>
+
+    <string-array name="bendVoiceOfRoma">
+
+        <item>kya</item>
+        <item>kyu</item>
+        <item>kyo</item>
+        <item>sha</item>
+        <item>shu</item>
+        <item>sho</item>
+        <item>cha</item>
+        <item>chu</item>
+        <item>cho</item>
+        <item>nya</item>
+        <item>nyu</item>
+        <item>nyo</item>
+        <item>hya</item>
+        <item>hyu</item>
+        <item>hyo</item>
+        <item>mya</item>
+        <item>myu</item>
+        <item>myo</item>
+        <item>rya</item>
+        <item>ryu</item>
+        <item>ryo</item>
+        <item>gya</item>
+        <item>gyu</item>
+        <item>gyo</item>
+        <item>zya</item>
+        <item>zyu</item>
+        <item>zyo</item>
+        <item>dya</item>
+        <item>dyu</item>
+        <item>dyo</item>
+        <item>bya</item>
+        <item>byu</item>
+        <item>byo</item>
+        <item>pya</item>
+        <item>pyu</item>
+        <item>pyo</item>
+    </string-array>
+</resources>

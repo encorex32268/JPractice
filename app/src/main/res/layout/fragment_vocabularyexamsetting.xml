@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/vocabularyRadioGroup"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="24dp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline24"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <CheckBox
+                android:id="@+id/douShiCheckBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:minHeight="48dp"
+                android:text="動詞"
+                app:layout_constraintBottom_toTopOf="@+id/meishiCheckBox"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="packed" />
+
+        <CheckBox
+                android:id="@+id/meishiCheckBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text="名詞"
+                app:layout_constraintBottom_toTopOf="@+id/fukushiCheckBox"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/douShiCheckBox" />
+
+        <CheckBox
+                android:id="@+id/fukushiCheckBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text="副詞"
+                app:layout_constraintBottom_toTopOf="@+id/ikeyoshiCheckBox"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/meishiCheckBox" />
+
+        <CheckBox
+                android:id="@+id/ikeyoshiCheckBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text="い形容詞"
+                app:layout_constraintBottom_toTopOf="@+id/nakeiyoshiCheckBox"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/fukushiCheckBox" />
+
+        <CheckBox
+                android:id="@+id/nakeiyoshiCheckBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text="な形容詞"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ikeyoshiCheckBox" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+            android:id="@+id/vocabularyExamSettingButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/alltone_button"
+            android:text="@string/examSetting_button_text"
+            android:textColor="@color/color_white"
+            app:autoSizeMaxTextSize="200sp"
+            app:autoSizeMinTextSize="20sp"
+            app:autoSizeTextType="uniform"
+            app:layout_constraintBottom_toTopOf="@+id/guideline20"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline24" />
+
+    <com.google.android.gms.ads.AdView
+            android:id="@+id/vocabularyAdView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:adSize="BANNER"
+            app:adUnitId="@string/googleAdsID"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline20" />
+
+    <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.85" />
+
+    <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.7" />
+</androidx.constraintlayout.widget.ConstraintLayout>

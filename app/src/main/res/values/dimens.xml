@@ -1,0 +1,13 @@
+<resources>
+<!-- Default screen margins, per the Android Design guidelines. -->
+
+<dimen name="answer_textsize">25sp</dimen>
+<dimen name="showTextSize_normal">115sp</dimen>
+<dimen name="alltonebasic">36sp</dimen>
+<dimen name="alltoneroman">20sp</dimen>
+<dimen name="startPageText">18sp</dimen>
+<dimen name="allToneButtonTextSize">20sp</dimen>
+    <dimen name="vocabulary_itemfrontText_size">20sp</dimen>
+
+
+</resources>

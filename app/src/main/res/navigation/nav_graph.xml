@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/nav_graph"
+        app:startDestination="@id/homeFragment">
+
+    <fragment
+            android:id="@+id/practiceFragment"
+            android:name="chen.example.lee.jppractice.ui.practice.PracticeFragment"
+            android:label="PracticeFragment" >
+        <argument
+                android:name="practiceType"
+                app:argType="chen.example.lee.jppractice.db.model.PracticeType" />
+        <action
+                android:id="@+id/action_practiceFragment_to_examSettingFragment"
+                app:destination="@id/examSettingFragment" />
+    </fragment>
+    <fragment
+            android:id="@+id/examSettingFragment"
+            android:name="chen.example.lee.jppractice.ui.examsetting.ExamSettingFragment"
+            android:label="ExamSettingFragment" >
+        <action
+                android:id="@+id/action_examSettingFragment_to_practiceFragment"
+                app:destination="@id/practiceFragment" />
+    </fragment>
+    <fragment
+            android:id="@+id/vocabularyFragment"
+            android:name="chen.example.lee.jppractice.ui.vocabulary.VocabularyFragment"
+            android:label="fragment_vocabulary"
+            tools:layout="@layout/fragment_vocabulary" >
+        <action
+                android:id="@+id/action_vocabularyFragment_to_vocabularyExamSettingFragment"
+                app:destination="@id/vocabularyExamSettingFragment" />
+    </fragment>
+    <fragment
+            android:id="@+id/homeFragment"
+            android:name="chen.example.lee.jppractice.ui.home.HomeFragment"
+            android:label="HomeFragment" />
+    <fragment
+            android:id="@+id/vocabularyExamSettingFragment"
+            android:name="chen.example.lee.jppractice.ui.vocabularyexamsetting.VocabularyExamSettingFragment"
+            android:label="VocabularyExamSettingFragment">
+        <action
+                android:id="@+id/action_vocabularyExamSettingFragment_to_vocabularyExamFragment"
+                app:destination="@id/vocabularyExamFragment" />
+    </fragment>
+    <fragment
+            android:id="@+id/vocabularyExamFragment"
+            android:name="chen.example.lee.jppractice.ui.vocabularyexam.VocabularyExamFragment"
+            android:label="VocabularyExamFragment" >
+        <action
+                android:id="@+id/action_vocabularyExamFragment_to_vocabularyExamSettingFragment"
+                app:destination="@id/vocabularyExamSettingFragment" />
+        <argument android:name="vocabularyList"
+                app:argType="chen.example.lee.jppractice.db.model.Vocabulary[]" />
+    </fragment>
+</navigation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日本语五十音</string>
+    <string name="appAdsID">1234</string>
+    <string name="main_activity_title">提示</string>
+    <string name="main_activity_version">有新版本</string>
+    <string name="main_activity_update_button_text">更新</string>
+    <string name="main_activity_cancel_button_text">取消</string>
+    <string name="main_activity_nevershow_button_text">永不显示</string>
+    <string name="home_bottomnavi_vocabulary">单字</string>
+    <string name="home_bottomnavi_home">首页</string>
+    <string name="home_bottomnavi_practice">测验</string>
+    <string name="examSetting_title">选择练习条件</string>
+    <string name="examSetting_button_text">开始练习</string>
+    <string name="examSetting_count_all">全部</string>
+    <string name="examSetting_count_other">前%d行</string>
+    <string name="examSetting_count_other_singlemode">第%d行</string>
+    <string name="vocabulary_adapter_init_select">动词</string>
+    <string name="vocabulary_sound_waring">语音功能会使用到网路</string>
+    <string name="vocabulary_sound_waring_alert_cancel">不再显示</string>
+    <string name="vocabulary_viewholder_withoutexample">没有例句</string>
+    <string-array name="vocabulary_types">
+        <item name="vocabulary_doushi">动词</item>
+        <item name="vocabulary_fukushi">副词</item>
+        <item name="vocabulary_ikeiyoushi">い形容词</item>
+        <item name="vocabulary_meishi">名词</item>
+        <item name="vocabulary_nakeiyoushi">な形容词</item>
+    </string-array>
+
+    <string name="practice_alert_title">答错</string>
+    <string name="practice_alert_user_choice_title">你选</string>
+    <string name="practice_alert_answer_choice_title">正确</string>
+    <string name="practice_alert_ok">ok</string>
+
+    <string-array name="examSetting_word_picker">
+        <item name="examSetting_word_hiragana">平假名</item>
+        <item name="examSetting_word_katakana">片假名</item>
+        <item name="examSetting_word_all">全部</item>
+    </string-array>
+    <string-array name="examSetting_tone_picker">
+        <item name="examSetting_tone_clear">清音</item>
+        <item name="examSetting_tone_footy">浊音</item>
+        <item name="examSetting_tone_bend">拗音</item>
+    </string-array>
+
+    <string name="home_alltone_clear">清音</string>
+    <string name="home_alltone_foodty">浊音</string>
+    <string name="home_alltone_bend">拗音</string>
+</resources>

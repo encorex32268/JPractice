@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="clearVoiceOfKatakana">
+        <item>ア</item>
+        <item>イ</item>
+        <item>ウ</item>
+        <item>エ</item>
+        <item>オ</item>
+        <item>カ</item>
+        <item>キ</item>
+        <item>ク</item>
+        <item>ケ</item>
+        <item>コ</item>
+        <item>サ</item>
+        <item>シ</item>
+        <item>ス</item>
+        <item>セ</item>
+        <item>ソ</item>
+        <item>タ</item>
+        <item>チ</item>
+        <item>ツ</item>
+        <item>テ</item>
+        <item>ト</item>
+        <item>ナ</item>
+        <item>ニ</item>
+        <item>ヌ</item>
+        <item>ネ</item>
+        <item>ノ</item>
+        <item>ハ</item>
+        <item>ヒ</item>
+        <item>フ</item>
+        <item>ヘ</item>
+        <item>ホ</item>
+        <item>マ</item>
+        <item>ミ</item>
+        <item>ム</item>
+        <item>メ</item>
+        <item>モ</item>
+        <item>ヤ</item>
+        <item>  </item>
+        <item>ユ</item>
+        <item>  </item>
+        <item>ヨ</item>
+        <item>ラ</item>
+        <item>リ</item>
+        <item>ル</item>
+        <item>レ</item>
+        <item>ロ</item>　
+        <item>ワ</item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>ヲ</item>
+        <item>ン</item>
+
+
+    </string-array>
+    <string-array name="footyVoiceOfKatakana">
+
+        <item>ガ</item>
+        <item>ギ</item>
+        <item>グ</item>
+        <item>ゲ</item>
+        <item>ゴ</item>
+        <item>ザ</item>
+        <item>ジ</item>
+        <item>ズ</item>
+        <item>ゼ</item>
+        <item>ゾ</item>
+        <item>ダ</item>
+        <item>ヂ</item>
+        <item>ヅ</item>
+        <item>デ</item>
+        <item>ド</item>
+        <item>バ</item>
+        <item>ビ</item>
+        <item>ブ</item>
+        <item>ベ</item>
+        <item>ボ</item>
+
+        <item>パ</item>
+        <item>ピ</item>
+        <item>プ</item>
+        <item>ペ</item>
+        <item>ポ</item>
+
+    </string-array>
+
+    <string-array name="bendVoiceOfKatakana">
+    <item>キャ</item>
+    <item>キュ</item>
+    <item>キョ</item>
+    <item>シャ</item>
+    <item>シュ</item>
+    <item>ショ</item>
+    <item>チャ</item>
+    <item>チュ</item>
+    <item>チョ</item>
+    <item>ニャ</item>
+    <item>ニュ</item>
+    <item>ニョ</item>
+    <item>ヒャ</item>
+    <item>ヒュ</item>
+    <item>ヒョ</item>
+    <item>ミャ</item>
+    <item>ミュ</item>
+    <item>ミョ</item>
+    <item>リャ</item>
+    <item>リュ</item>
+    <item>リョ</item>
+    <item>ギャ</item>
+    <item>ギュ</item>
+    <item>ギョ</item>
+    <item>ジャ</item>
+    <item>ジュ</item>
+    <item>ジョ</item>
+    <item>ヂャ</item>
+    <item>ヂュ</item>
+    <item>ヂョ</item>
+    <item>ビャ</item>
+    <item>ビュ</item>
+    <item>ビョ</item>
+    <item>ピャ</item>
+    <item>ピュ</item>
+    <item>ピョ</item>
+</string-array>
+</resources>

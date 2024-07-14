@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorsky">	#C4E1FF</color>-->
+    <!--<color name="color_yellow">	#FFFF00</color>-->
+
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FFCDD2</color>
+
+    <color name="colorsky">	#C4E1FF</color>
+    <color name="color_yellow">	#FFFF00</color>
+
+
+    <!-- HomeFragment -->
+    <color name="color_voicetonebutton">#000000</color>
+    <color name="color_alltone_hiragana">#000000</color>
+    <color name="color_alltone_katakana">#E57373</color>
+    <color name="color_alltone_roma">#3C3C3C</color>
+
+    <!-- TestFragment -->
+    <color name="color_picker">#E57373</color>
+    <color name="color_startbutton">#000000</color>
+
+
+    <!--App Color -->
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_katakana">#ff7575</color>
+    <color name="color_alltonebutton">#EF9A9A</color>
+    <color name="color_checkbox">#FF9224</color>
+
+
+    <color name="color_whiteAndyellow">#FFFFFF</color>
+
+
+    <color name="color_gray">#4F4F4F</color>
+    <color name="color_text">#808080</color>
+    <color name="color_guidle">#FF0000</color>
+    <color name="color_gridViewWord">#7B7B7B</color>
+
+    <color name="color_gridViewRoma">#3C3C3C</color>
+    <color name="color_practicesound">#FFD2D2</color>
+
+
+</resources>

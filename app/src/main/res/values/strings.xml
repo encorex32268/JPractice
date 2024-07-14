@@ -1,0 +1,60 @@
+<resources>
+
+
+    <!--App-->
+    <string name="app_name">日本語五十音</string>
+
+    <!--MainActivity-->
+    <string name="main_activity_title">提醒</string>
+    <string name="main_activity_version">有新版本</string>
+    <string name="main_activity_update_button_text">更新</string>
+    <string name="main_activity_cancel_button_text">取消</string>
+    <string name="main_activity_nevershow_button_text">永不顯示</string>
+    <!--HomePage-->
+    <string name="home_bottomnavi_vocabulary">單字</string>
+    <string name="home_bottomnavi_home">首頁</string>
+    <string name="home_bottomnavi_practice">測驗</string>
+    <string name="home_alltone_clear">清音</string>
+    <string name="home_alltone_foodty">濁音</string>
+    <string name="home_alltone_bend">拗音</string>
+    <!--ExamPage-->
+    <string name="examSetting_title">選擇練習條件</string>
+    <string name="examSetting_button_text">開始練習</string>
+    <string name="examSetting_count_all">全部</string>
+    <string name="examSetting_count_other">前%d行</string>
+    <string name="examSetting_count_other_singlemode">第%d行</string>
+
+    <string-array name="examSetting_word_picker">
+        <item name="examSetting_word_hiragana">平假名</item>
+        <item name="examSetting_word_katakana">片假名</item>
+        <item name="examSetting_word_all">全部</item>
+    </string-array>
+    <string-array name="examSetting_tone_picker">
+        <item name="examSetting_tone_clear">清音</item>
+        <item name="examSetting_tone_footy">濁音</item>
+        <item name="examSetting_tone_bend">拗音</item>
+    </string-array>
+
+    <!--VocabularyPage-->
+    <string name="vocabulary_adapter_init_select">動詞</string>
+    <string name="vocabulary_sound_waring">語音功能會使用到網路</string>
+    <string name="vocabulary_sound_waring_alert_cancel">不再顯示</string>
+    <string name="vocabulary_viewholder_withoutexample">沒有例句</string>
+    <string-array name="vocabulary_types">
+        <item name="vocabulary_doushi">動詞</item>
+        <item name="vocabulary_fukushi">副詞</item>
+        <item name="vocabulary_ikeiyoushi">い形容詞</item>
+        <item name="vocabulary_meishi">名詞</item>
+        <item name="vocabulary_nakeiyoushi">な形容詞</item>
+    </string-array>
+
+    <!--PracticePage-->
+    <string name="practice_alert_title">答錯</string>
+    <string name="practice_alert_user_choice_title">你選</string>
+    <string name="practice_alert_answer_choice_title">正確</string>
+    <string name="practice_alert_ok">ok</string>
+
+
+
+
+</resources>

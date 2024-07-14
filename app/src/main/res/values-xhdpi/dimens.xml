@@ -1,0 +1,8 @@
+<resources>
+<!-- Default screen margins, per the Android Design guidelines. -->
+
+<dimen name="practice_showText_size">100sp</dimen>
+<dimen name="practice_ansText_size">36sp</dimen>
+
+
+</resources>

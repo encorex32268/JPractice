@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/exam_vocabulary"
+            android:icon="@drawable/ic_exam"
+            android:title="exam_vocabulary"
+            app:showAsAction="ifRoom" />
+    <item
+            android:id="@+id/voice_switch_vocabulary"
+            android:icon="@drawable/ic_volume_up"
+            android:title="voice_switch_vocabulary"
+            app:showAsAction="ifRoom" />
+
+
+</menu>

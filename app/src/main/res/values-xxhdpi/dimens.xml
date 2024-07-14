@@ -1,0 +1,9 @@
+<resources>
+<!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="practice_showText_size">120sp</dimen>
+    <dimen name="practice_ansText_size">36sp</dimen>
+    <dimen name="vocabulary_itemfrontText_size">22sp</dimen>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+<!-- Default screen margins, per the Android Design guidelines. -->
+
+<dimen name="practice_showText_size">80sp</dimen>
+<dimen name="practice_ansText_size">36sp</dimen>
+<dimen name="condition_tileText_size">36sp</dimen>
+<dimen name="condition_pickerText_size">28sp</dimen>
+
+
+
+</resources>
